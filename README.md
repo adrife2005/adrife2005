@@ -1,6 +1,4 @@
-### I'm Adrian
-
-Full Stack Developer
+<h2 align="center">Hey there!, I'm Adrian 👋</h2>
 
 ![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge)
 ![NextJS](https://img.shields.io/badge/nextJS-black?style=for-the-badge)
